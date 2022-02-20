@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box ;
+}
+html{
+    font-size: 62.5%;
+}
+.mybutton{
+    top: 40vh;
+    left: 48vw;
+    position: absolute;
+    border:none;
+    border-radius: 30px;
+    padding: 1.7rem 3rem;
+    background-color: aqua;
+    color: white;
+}
+a{
+    display:inline-block;
+    background-color: red;
+    border-radius: 2rem;
+    width: 20rem;
+    height: 20rem;
+    text-align: center;
+}
